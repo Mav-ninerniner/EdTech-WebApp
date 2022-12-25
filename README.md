@@ -1,8 +1,11 @@
 # CS546 Final Project
 ## Group 18 Team members:
 1)Anjanappa, Sushmitha, CWID – 10473762
+
 2)Jhanglani, Preet, CWID – 10474322
+
 3)Patel, Marvin, CWID – 10474920
+
 4)Shah, Achal, CWID – 10476621
 
 
